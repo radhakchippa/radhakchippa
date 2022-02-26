@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radha krishna chippa
-- 👀 I’m interested in docker, cloud, CICD and K8s
+- 👀 I’m interested in docker, cloud (aws), CICD and K8s
 - 🌱 I’m currently learning Openshift
 - 💞️ I’m looking to collaborate on cloud architecture projects, and Java projects
 - 📫 How to reach me my email: rad.krishna2001@gmail.com
